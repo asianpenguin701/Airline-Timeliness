@@ -13,7 +13,7 @@ This project aims to evaluate and analyze flight delay patterns and on-time perf
 ## Installation
 List of tools and libraries that will need to be installed before running the script:
 + Python (version 3.12)
-+ Required system packages or libraries: pandas, csv, pathlib, hvplot.pandas, numpy, scipy.stats, matplotlib, seaborn
++ Required system packages or libraries: pandas, csv, pathlib, hvplot.pandas, numpy, scipy.stats, matplotlib and seaborn.
 ## Usage
 + Clone repository from GitHub and navigate to the directory where to clone the dipository using the cd' command.
 + Open Jupyther Notebook to run the script.
