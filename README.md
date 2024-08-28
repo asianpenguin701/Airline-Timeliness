@@ -13,21 +13,28 @@ This project aims to evaluate and analyze flight delay patterns and on-time perf
 ## Installation
 List of tools and libraries that will need to be installed before running the script:
 + Python (version 3.12)
-+ Required system packages or libraries: 
++ Required system packages or libraries: pandas, csv, pathlib, hvplot.pandas, numpy, scipy.stats, matplotlib, seaborn
 ## Usage
-Examples of how to use the project. Include code snippets or screenshots.
++ Clone repository from GitHub and navigate to the directory where to clone the dipository using the cd' command.
++ Open Jupyther Notebook to run the script.
 ## Contributing
-Guidelines for contributing to the project.
+Contributions to this project are welcome! To get started, follow these steps:
++ Clone the respository to your local machines
++ Navigate to the project directory
++ Setup development environment
++ Create a new branch for your feature or bug fix
++ Make  changes to the code base on new branch, ensure following existing stlye and conventions
++ Update or add document to reflect changes
++ Write or update document to explain changes
++ Committing and push changes to repository
++ Submitting a pull request
++ Code review process
 ## License
-Include the license under which the project is distributed.
+This project does not have a license.
 ## Credits
-Acknowledge contributors and resources.
+Collaborators: Heidi Fox, Jennifer Zapata, Peiwen Chiu
 ## Contact
-Provide ways to reach out for questions or support.
-
-Presentation maintains audience interest (5 points)
-Slide Deck (20 points)
-Slides are visually clean and professional (5 points)
-Slides are relevant to material (5 points)
-Slides effectively demonstrate the project (5 points)
-Slides are clear and maintain audience interest (5 points)
+Emails: 
+Heidi Fox (heidi_fox831@yahoo.com) 
+Jennifer Zapata (jennysnyder1129@gmail.com)
+Peiwen Chiu (asianpenguin@gmail.com)
