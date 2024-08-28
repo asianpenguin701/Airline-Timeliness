@@ -31,6 +31,8 @@ Contributions to this project are welcome! To get started, follow these steps:
 + Code review process
 ## License
 This project does not have a license.
+## Data Source
+Bureau of Transportation Statistics. "Airline On-Time Statistics and Delay Causes". May 2024. Accessed August 19, 2024. https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 ## Credits
 Collaborators: Heidi Fox, Jennifer Zapata, Peiwen Chiu
 ## Contact
