@@ -1,7 +1,6 @@
-# Airline-Timeliness
-# Project Title
+# Airline-Timeliness Analysis 
 ## Description
-A brief description of what this project does and who it's for.
+This project aims to evaluate and analyze flight delay patterns and on-time performance for various airlines. The analysis will be broken down into three key areas: on-time performance, delay patterns, and the impact of airports and routes on flight delays.  
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
